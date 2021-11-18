@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-18T18:58:41.538Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="P4VxAiNCCp4XAM8n3W3h" version="15.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-18T19:05:21.793Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="KRzRXfiJWDb_e_UirJwk" version="15.8.0" type="github">
   <diagram id="kOsPYZ9uBFAMnIBQ-ULK" name="Page-1">
     <mxGraphModel dx="2249" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="oxakEMZMlEvCSRAWe6NK-3" value="Database&lt;br&gt;SQL&amp;nbsp;&lt;br&gt;SERVER" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="362.5" y="290" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="oxakEMZMlEvCSRAWe6NK-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;shape=flexArrow;" edge="1" parent="1" source="oxakEMZMlEvCSRAWe6NK-4" target="oxakEMZMlEvCSRAWe6NK-7">
+        <mxCell id="oxakEMZMlEvCSRAWe6NK-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="oxakEMZMlEvCSRAWe6NK-4" target="oxakEMZMlEvCSRAWe6NK-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oxakEMZMlEvCSRAWe6NK-4" value="Click Once Installation&lt;br&gt;CSSP Network Folder" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#B3B3B3;shape=mxgraph.mscae.enterprise.shared_folder" vertex="1" parent="1">
@@ -22,16 +22,16 @@
         <mxCell id="oxakEMZMlEvCSRAWe6NK-7" value="PRM&lt;br&gt;Windows Form Desktop App&lt;br&gt;.Net C#" style="image;html=1;image=img/lib/clip_art/computers/Virtual_Application_128x128.png" vertex="1" parent="1">
           <mxGeometry x="590" y="83" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="oxakEMZMlEvCSRAWe6NK-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="oxakEMZMlEvCSRAWe6NK-8" target="oxakEMZMlEvCSRAWe6NK-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="oxakEMZMlEvCSRAWe6NK-8" value="Power BI&lt;br&gt;Reports&lt;br&gt;" style="image;html=1;image=img/lib/clip_art/finance/Pie_Chart_128x128.png" vertex="1" parent="1">
           <mxGeometry x="598" y="303" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oxakEMZMlEvCSRAWe6NK-23" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oxakEMZMlEvCSRAWe6NK-15" target="oxakEMZMlEvCSRAWe6NK-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oxakEMZMlEvCSRAWe6NK-15" value="Altery Process&lt;br&gt;*PR&lt;br&gt;*PO&lt;br&gt;*PO Confirmation" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.process;fillColor=#B3B3B3;" vertex="1" parent="1">
+        <mxCell id="oxakEMZMlEvCSRAWe6NK-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oxakEMZMlEvCSRAWe6NK-15" target="oxakEMZMlEvCSRAWe6NK-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oxakEMZMlEvCSRAWe6NK-15" value="Alteryx Process&lt;br&gt;*PR&lt;br&gt;*PO&lt;br&gt;*PO Confirmation" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.process;fillColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="200" y="299" width="52" height="62" as="geometry" />
         </mxCell>
         <mxCell id="oxakEMZMlEvCSRAWe6NK-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;shape=flexArrow;" edge="1" parent="1" source="oxakEMZMlEvCSRAWe6NK-16" target="oxakEMZMlEvCSRAWe6NK-15">
@@ -52,11 +52,8 @@
             <mxPoint x="460" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oxakEMZMlEvCSRAWe6NK-31" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oxakEMZMlEvCSRAWe6NK-5" target="oxakEMZMlEvCSRAWe6NK-7">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="430" y="580" as="sourcePoint" />
-            <mxPoint x="480" y="530" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="oxakEMZMlEvCSRAWe6NK-33" value="Altery Process&lt;br&gt;*PR&lt;br&gt;*PO&lt;br&gt;*PO Confirmation" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.process;fillColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="200" y="441" width="52" height="62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
